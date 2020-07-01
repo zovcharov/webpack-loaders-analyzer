@@ -1,0 +1,19 @@
+{
+  "name": "webpack-loaders-analyzer",
+  "version": "1.0.0",
+  "description": "Webpack CLI utility that represents loaders in different environment settings",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zovcharov/webpack-loaders-analyzer.git"
+  },
+  "author": "Zakhar Ovcharov (https://github.com/zovcharov)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zovcharov/webpack-loaders-analyzer/issues"
+  },
+  "homepage": "https://github.com/zovcharov/webpack-loaders-analyzer#readme"
+}

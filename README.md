@@ -1,2 +1,2 @@
-# webpack-loaders-analyzer
-WebpackCLI utility that represents loaders in different environment settings
+# Webpack Loaders Analyzer
+Webpack CLI utility that represents loaders in different environment settings
